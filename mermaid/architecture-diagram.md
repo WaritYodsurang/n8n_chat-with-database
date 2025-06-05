@@ -1,4 +1,4 @@
-# System Architecture – ChatSQL Agent
+# System Architecture – Chat with database
 
 ```mermaid
 ---
